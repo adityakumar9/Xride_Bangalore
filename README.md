@@ -1,2 +1,2 @@
-# Xride_Banglaore
+# Xride_Bangalore
 One of the leading ride-hailing companies, XRides in Bangalore has approached Locale to help use its location data to make better decisions. They have shared a dataset of ~40,000 trips with their time, starting and ending locations along with some other attribute data. Here is the data: https://docs.google.com/spreadsheets/d/1a2lv-O9V8kjnHVdE4CEMqRLYFreE0fBAMHEfX81aQ2g/edit?usp=sharing
